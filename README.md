@@ -8,7 +8,7 @@ Personal vim cheat sheet
 - `b`: move backwards word by word
 - `e`: jump to the end of a word
 - `ge`: jump to the end of the previous word
-<hr />
+<br />
 
 - `f{character}`: move to the next occurence of a character in a line
 - `F{character}`: move to the previous occurence of a character in a line
@@ -16,21 +16,21 @@ Personal vim cheat sheet
 - `T{character}`: move just after `F{character}`
 - `;`: repeat the last character search forwards
 - `,`: repeat the last character search backwards
-<hr />
+<br />
 
 - `}`: jump entire paragraph downwards
 - `{`: jump entire paragraph upwards
 - `CTRL-D`: move down half a page
 - `CTRL-U`: move up half a page
-<hr />
+<br />
 
 - `*`: search for the word under the cursor forwards
 - `#`: search for the word under the cursor backwards
-<hr />
+<br />
 
 - `gd`: jump to the definition of the word under your cursor
 - `gf`: jump to the file of the import under your cursor
-<hr />
+<br />
 
 - `{line}gg`: go to a specific line
 - `%`: jump to matching `({[]})`
@@ -43,6 +43,7 @@ Personal vim cheat sheet
 - `>`: add indentation
 - `<`: remove indentation
 - `=`: format code
+<br />
 
 - `D`: delete from the cursor to the end of the line
 - `C`: change from the cursor to the end of the line
