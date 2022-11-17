@@ -53,3 +53,6 @@ Personal vim cheat sheet
 ### Commands
 
 - `.`: repeat your last change
+- `;`: repeat your last motion
+- `r`: replace one single character for another
+- `~`: switch case for a single character
