@@ -45,6 +45,11 @@ Personal vim cheat sheet
 - `=`: format code
 <br />
 
+- `d/{word}`: delete until word
 - `D`: delete from the cursor to the end of the line
 - `C`: change from the cursor to the end of the line
 - `Y`: copies an entire line
+
+### Commands
+
+- `.`: repeat your last change
