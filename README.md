@@ -3,6 +3,8 @@ Personal vim cheat sheet
 
 ## Commands to internalize
 
+### Motions
+
 - `b`: move backwards word by word
 - `e`: jump to the end of a word
 - `ge`: jump to the end of the previous word
@@ -32,3 +34,16 @@ Personal vim cheat sheet
 
 - `{line}gg`: go to a specific line
 - `%`: jump to matching `({[]})`
+
+### Operators
+
+- `g~`: switch case
+- `gu`: make lowercase
+- `gU`: make uppercase
+- `>`: add indentation
+- `<`: remove indentation
+- `=`: format code
+
+- `D`: delete from the cursor to the end of the line
+- `C`: change from the cursor to the end of the line
+- `Y`: copies an entire line
